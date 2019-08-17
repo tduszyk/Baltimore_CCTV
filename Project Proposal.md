@@ -10,7 +10,7 @@ Given this volunteer approach, we are interested in the geographic distribution 
 
 ## Hypothesis
 
-Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. We will plot the geolocation of 720 CCTV cameras in Baltimore, mapping the location in sublocations and  catergorize the types of crime by subject matter for our purposes. The crimes will then be broken down by victim crimes reported and police arrests. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
+Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. We will plot the geolocation of 720 CCTV cameras in Baltimore, map the location into sublocations and  catergorize the types of crime by subject matter for our purposes. The crimes will then be broken down by victim crimes reported and police arrests. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes); to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
 
 ### Methods
 
