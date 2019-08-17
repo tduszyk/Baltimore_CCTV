@@ -27,6 +27,6 @@ https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
 Tree Map</br>
 Main view:</br>
 ![Main view]
-(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_main.png) </br>
+(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_main.png)
 ![ZoomView]
-(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_zoom.png) </br>
+(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_zoom.png)
