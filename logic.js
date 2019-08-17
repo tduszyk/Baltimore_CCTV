@@ -12,13 +12,27 @@ L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   accessToken: API_KEY
 }).addTo(map);
 
-//NEEDS NEW API ENDPOINT FOR CAMERA LOCATIONS
 
-var link = "http://data.beta.nyc//dataset/0ff93d2d-90ba-457c-9f7e-39e47bf2ac5f/resource/" +
-"35dd04fb-81b3-479b-a074-a27a37888ce7/download/d085e2f8d0b54d4590b1e7d1f35594c1pediacitiesnycneighborhoods.geojson";
 
-// Grabbing our GeoJSON data..
-d3.json(link, function(data) {
-  // Creating a GeoJSON layer with the retrieved data
-  L.geoJson(data).addTo(map);
+//Baltimore API endpoint
+var link = "https://data.baltimorecity.gov/resource/h32e-c3r6.json"
+
+
+// Grabbing json data
+d3.json(link, function(data) { //pass the full JSON link
+
+  data.forEach(function(element){  //filter for lat and long with foreach loop
+    console.log(element.latitude);
+    console.log(element.longitude);
+    lat =element.latitude;
+    lon =element.longitude;  //NOTE: lat/long not stored in global variable.
+
+    var marker = L.marker([lat, lon], { //pass lat/long to marker
+      draggable: true,
+      title: "My First Marker"
+    }).addTo(map);
+    
+  });
 });
+
+
