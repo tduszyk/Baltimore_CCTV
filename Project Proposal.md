@@ -36,4 +36,7 @@ https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/
 Baltimore Police Department Arrests </br>
 https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
 
+### Graphs
 
+1. Tree graph will show number of cameras, breakdown of crime per neighborhood. </br>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
