@@ -14,3 +14,6 @@ Tom Duszyk<br/>
 Baltimore CCTV locations. from data.world : <br/>
 https://www.kaggle.com/sohier/crime-in-baltimore <br/>
 baltimore/baltimore-cctv-locations
+
+Baltimore Crime locations:
+https://data.baltimorecity.gov/api/views/wsfq-mvij/rows.json
