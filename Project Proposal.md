@@ -18,7 +18,7 @@ Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in 
 
 2. Incorporate the JavaScript InfoVis Toolkit, to create meaningful interactive tables comparing the number of cameras, to types of crime, and number of arrests. 
 
-3. Javascript Ploty will be used to manifest a visiulization that will summarize our findings. 
+3. Javascript Ploty will be used to manifest a visualization that will summarize our findings. 
 
 Determine which types of crimes are most highly correlated with camera placement.
 
