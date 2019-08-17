@@ -6,11 +6,11 @@ Increasingly, municipal police departments are relying on CCTV camera technology
 
 Among large US cities, Baltimore has the highest per-capita murder rate for a large city in the U.S.  For over a decade, the city has been using CCTV technology to fight crime.  The program, designed to save government resources, relies on a system of over 700 privately-owned cameras that have been registered with the city for public safety use.  
 
-Given this volunteer approach, we are interested in the geographic distribution of these cameras and any correlation with specific crime prevention in those areas, along with the various types of crimes committed, and number of arrests made. 
+Given this volunteer approach, we are interested in the geographic distribution of these cameras and any correlation with specific crime prevention in those areas, along with the various types of crimes reported, and number of arrests made. 
 
 ## Hypothesis
 
-Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. We will plot the geolocation of CCTV cameras in Baltimore, mapping the location in sublocations and  catergorize the types of crime by subject matter for our purposes. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
+Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. We will plot the geolocation of CCTV cameras in Baltimore, mapping the location in sublocations and  catergorize the types of crime by subject matter for our purposes. The crimes will then be broken down by victim crimes reported and police arrests. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
 
 ### Methods
 
