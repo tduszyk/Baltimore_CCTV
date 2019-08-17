@@ -10,7 +10,7 @@ Given this volunteer approach, we are interested in the geographic distribution 
 
 ## Hypothesis
 
-Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
+Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. We will plot the geolocation of CCTV cameras in Baltimore and  catergorize the types of crime by subject matter for our purposes. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
 
 ### Methods
 
@@ -18,17 +18,19 @@ Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in 
 
 2. Incorporate the JavaScript InfoVis Toolkit, to create meaningful interactive tables comparing the number of cameras, to types of crime, and number of arrests. 
 
-3. 
+3. Javascript Ploty ----- in progress. 
 
 Determine which types of crimes are most highly correlated with camera placement.
 
 ### Datasets
 
-Baltimore CCTV Locations
-https://data.baltimorecity.gov/Public-Safety/CCTV-Locations/h32e-c3r6
+Baltimore CCTV Locations </br>
+https://data.baltimorecity.gov/Public-Safety/CCTV-Locations/h32e-c3r6 </br>
 
+Baltimore Crime </br>
+https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data </br>
 
-Baltimore Crime
-https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data
+Baltimore Police Department Arrests </br>
+https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
 
 
