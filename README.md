@@ -24,9 +24,10 @@ Baltimore Police Department Arrests: <br/>
 https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
 
 ### Graphs
-Tree Map</br>
-Main view:</br>
-![Main view]
+
+![Main_View]
 (https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_main.png)
-![ZoomView]
+
+
+![Zoom_View]
 (https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_zoom.png)
