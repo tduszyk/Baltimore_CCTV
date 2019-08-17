@@ -39,4 +39,4 @@ https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
 ### Graphs
 
 1. Tree graph will show number of cameras, breakdown of crime per neighborhood. </br>
-![Image_Main_View](https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_zoom.png)
+![Image_Main_View](https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_main.png)
