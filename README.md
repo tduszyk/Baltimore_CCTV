@@ -14,6 +14,12 @@ Tom Duszyk<br/>
 Baltimore CCTV locations. from data.world : <br/>
 https://www.kaggle.com/sohier/crime-in-baltimore <br/>
 
+Baltimore Closed circuit camera locations: <br/>
+https://data.baltimorecity.gov/Public-Safety/CCTV-Locations/h32e-c3r6 <br/>
 
-Baltimore Crime locations: <br/>
+Baltimore Victim Crime locations: <br/>
 https://data.baltimorecity.gov/api/views/wsfq-mvij/rows.json </br>
+
+Baltimore Police Department Arrests: <br/>
+https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
+
