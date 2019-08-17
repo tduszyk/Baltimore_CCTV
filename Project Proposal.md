@@ -6,17 +6,19 @@ Increasingly, municipal police departments are relying on CCTV camera technology
 
 Among large US cities, Baltimore has the highest per-capita murder rate for a large city in the U.S.  For over a decade, the city has been using CCTV technology to fight crime.  The program, designed to save government resources, relies on a system of over 700 privately-owned cameras that have been registered with the city for public safety use.  
 
-Given this volunteer approach, we are interested in the geographic distribution of these cameras and any correlation with crime prevention in those areas.  
+Given this volunteer approach, we are interested in the geographic distribution of these cameras and any correlation with specific crime prevention in those areas, along with the various types of crimes committed, and number of arrests made. 
 
 ## Hypothesis
 
-Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas and are used to prevent property crimes, largely affecting those businesses. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes).
+Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in business areas, used to prevent property crimes, largely affecting those businesses. Our goal is to investigate whether cameras are also placed in areas of the city with high rates of victim-based crime (non-property crimes). We will dive in to investigate the variance in number of cameras placed in areas of the city with high rates of victim-based crime compared to those of property related crimes. 
 
 ### Methods
 
-1. Use leaflet to plot the point (lat/long) of each CCTV camera in the Baltimore Open Data set.
+1. Use leaflet to plot the point (lat/long) of each CCTV camera in the Baltimore Open Data set, creating a reader friendly visualization. Furthermore, we will apply a heatmap layer with various types of crimes (violent/drug/property crimes) from BPD Open Data. 
 
-2. Create a heatmap layer with various types of crimes (violent/drug/property crimes) from BPD Open Data.
+2. Incorporate the JavaScript InfoVis Toolkit, to create meaningful interactive tables comparing the number of cameras, to types of crime, and number of arrests. 
+
+3. 
 
 Determine which types of crimes are most highly correlated with camera placement.
 
@@ -25,5 +27,8 @@ Determine which types of crimes are most highly correlated with camera placement
 Baltimore CCTV Locations
 https://data.baltimorecity.gov/Public-Safety/CCTV-Locations/h32e-c3r6
 
+
 Baltimore Crime
 https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data
+
+
