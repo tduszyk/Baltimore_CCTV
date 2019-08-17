@@ -22,12 +22,3 @@ https://data.baltimorecity.gov/api/views/wsfq-mvij/rows.json </br>
 
 Baltimore Police Department Arrests: <br/>
 https://data.baltimorecity.gov/resource/3i3v-ibrt.json </br>
-
-### Graphs
-
-![Main_View]
-(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_main.png)
-
-
-![Zoom_View]
-(https://github.com/tduszyk/Baltimore_CCTV/blob/tom-branch/tree_map_zoom.png)
