@@ -15,10 +15,13 @@ Our Hypothesis is that Baltimore CCTV cameras are disproportionately located in 
 ### Methods
 
 1. Use leaflet to plot the point (lat/long) of each CCTV camera in the Baltimore Open Data set, creating a reader friendly visualization. Furthermore, we will apply a heatmap layer with various types of crimes (violent/drug/property crimes) from BPD Open Data. 
+  - Goolge maps, selections incoporated for heatmaps, mouse overs for location. 
 
 2. Incorporate the JavaScript InfoVis Toolkit, to create meaningful interactive tables comparing the number of cameras, to types of crime, and number of arrests. 
+  - Mouse overs for count of selection, selection for interactive changing tables (3x). 
 
-3. Javascript Ploty will be used to manifest a visualization that will summarize our findings. 
+3. Javascript Ploty will be used to manifest a visualization that will summarize our findings.
+  - to be determined 
 
 Determine which types of crimes are most highly correlated with camera placement.
 
