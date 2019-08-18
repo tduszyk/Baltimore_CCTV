@@ -1,0 +1,75 @@
+Abell: 1
+Arlington: 1
+Barclay: 9
+Belair-Edison: 4
+Berea: 1
+Better Waverly: 5
+Bolton Hill: 1
+Broadway East: 7
+CARE: 7
+Carrollton Ridge: 17
+Central Park Heights: 16
+Charles North: 3
+Charles Village: 1
+Cherry Hill: 57
+Clifton Park: 3
+Coldstream Homestead Montebello: 8
+Coppin Heights/Ash-Co-East: 12
+Cross Country: 8
+Downtown: 50
+Downtown West: 8
+Druid Heights: 2
+Dunbar-Broadway: 1
+East Baltimore Midway: 10
+Easterwood: 6
+Edgewood: 2
+Edmondson Village: 1
+Ellwood Park/Monument: 4
+Fells Point: 12
+Four By Four: 3
+Franklintown Road: 3
+Glen: 7
+Greektown: 4
+Greenmount West: 6
+Harwood: 7
+Hollins Market: 9
+Inner Harbor: 16
+Johnston Square: 6
+Lucille Park: 1
+Madison-Eastend: 8
+McElderry Park: 5
+Mid-Town Belvedere: 6
+Middle East: 3
+Milton-Montford: 5
+Mondawmin: 9
+Mosher: 3
+Mount Vernon: 14
+New Southwest/Mount Clare: 8
+Northwest Community Action: 8
+Oldtown: 27
+Oliver: 3
+Otterbein: 2
+Parklane: 1
+Penn North: 7
+Penn-Fallsway: 6
+Perkins Homes: 21
+Pimlico Good Neighbors: 3
+Pleasant View Gardens: 21
+Pulaski Industrial Area: 1
+Reservoir Hill: 1
+Rognel Heights: 1
+Rosemont: 4
+Rosemont Homeowners/Tenants: 2
+Sandtown-Winchester: 37
+Seton Hill: 5
+Sharp-Leadenhall: 1
+Towanda-Grantley: 3
+Union Square: 3
+University Of Maryland: 11
+Upper Fells Point: 1
+Upton: 45
+Walbrook: 2
+Washington Hill: 11
+Washington Village/Pigtown: 1
+Waverly: 1
+Winchester: 5
