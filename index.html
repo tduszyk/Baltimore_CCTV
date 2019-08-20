@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
+  <html_xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="gr__philogb_github_io">
   <head>
     <meta charset="UTF-8">
     <title>Baltimore Cameras</title>
@@ -22,7 +23,37 @@
   <body>
 
     <!-- map div -->
-    <div id="map"></div>
+    <div id="infovis"></div>
+    <div id="log"></div>
+
+    <div id="id-list">
+      <table>
+          <tbody><tr>
+              <td>
+                  <label for="r-sq">Squarified </label>
+              </td>
+              <td>
+                  <input type="radio" id="r-sq" name="layout" checked="checked" value="left">
+              </td>
+          </tr>
+          <tr>
+               <td>
+                  <label for="r-st">Strip </label>
+               </td>
+               <td>
+                  <input type="radio" id="r-st" name="layout" value="top">
+               </td>
+          </tr><tr>
+               <td>
+                  <label for="r-sd">SliceAndDice </label>
+                </td>
+                <td>
+                  <input type="radio" id="r-sd" name="layout" value="bottom">
+                </td>
+          </tr>
+      </tbody></table>
+      </div>
+
     <!-- API key -->
     <script type="text/javascript" src="./config.js"></script>
     <!-- JS  -->
@@ -31,8 +62,8 @@
     <!-- <script type="text/javascript" src="static/js/logic3.js"></script> -->
     <!-- <script type="text/javascript" src="static/js/logic4.js"></script> -->
     <!-- Bars -->
+    <script type="text/javascript" src="./jit.js"></script>
     <script type="text/javascript" src="./bars.js"></script>
-
   </body>
 </html>
 
