@@ -19,40 +19,17 @@
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="./style.css">
 
+    <!-- TreeMap -->
+    <!-- <meta charset="utf-8" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Essential JS 2 for treemap UI Control" />
+    <meta name="author" content="Syncfusion" />
+    <!-- <link href="index.css" rel="stylesheet" /> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.19.38/system.js"></script>
+    <script src="systemjs.config.js"></script>
+
   </head>
   <body>
-
-    <!-- map div -->
-    <div id="infovis"></div>
-    <div id="log"></div>
-
-    <div id="id-list">
-      <table>
-          <tbody><tr>
-              <td>
-                  <label for="r-sq">Squarified </label>
-              </td>
-              <td>
-                  <input type="radio" id="r-sq" name="layout" checked="checked" value="left">
-              </td>
-          </tr>
-          <tr>
-               <td>
-                  <label for="r-st">Strip </label>
-               </td>
-               <td>
-                  <input type="radio" id="r-st" name="layout" value="top">
-               </td>
-          </tr><tr>
-               <td>
-                  <label for="r-sd">SliceAndDice </label>
-                </td>
-                <td>
-                  <input type="radio" id="r-sd" name="layout" value="bottom">
-                </td>
-          </tr>
-      </tbody></table>
-      </div>
 
     <!-- API key -->
     <script type="text/javascript" src="./config.js"></script>
@@ -62,8 +39,10 @@
     <!-- <script type="text/javascript" src="static/js/logic3.js"></script> -->
     <!-- <script type="text/javascript" src="static/js/logic4.js"></script> -->
     <!-- Bars -->
-    <script type="text/javascript" src="./jit.js"></script>
     <script type="text/javascript" src="./bars.js"></script>
+    <div id='loader'>Loading....</div>
+    <div id='container'>
+    </div>
   </body>
 </html>
 
