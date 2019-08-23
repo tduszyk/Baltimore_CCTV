@@ -36,4 +36,5 @@ d3.json(cctv, function (data) { //pass the full JSON link
     // console.log(`${key}: ${value}`);
     camerasNeighborhood.push({ Neighborhood: `${key}`, NumberOfCameras: `${value}` });
   }
+  console.log(camerasNeighborhood);
 });
