@@ -1,5 +1,4 @@
-var labelType, useGradients, nativeTextSupport, animate;
-
+../../../../Homeworks/D3var labelType, useGradients, nativeTextSupport, animate;
 
 (function() {
   var ua = navigator.userAgent,
@@ -50,9 +49,8 @@ function init(){
           "$area": 200
         }
       }
-    ]
     }
-  // };
+   };
   //end
   //init TreeMap
   var tm = new $jit.TM.Squarified({
@@ -143,3 +141,4 @@ function init(){
     tm.out();
   });
 }
+
