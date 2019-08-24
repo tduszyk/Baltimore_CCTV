@@ -119,8 +119,8 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 // READ IN DATA AND BUILD INITIAL CHART
 // ---------------------------------------------------------
 
-// read csv
-d3.csv("assets/data/zips_cctv_data.csv")
+// read json that we output to our bubble route
+d3.json("http://127.0.0.1:5000/bubble")
   .then(function(zipsData) {
 
     // parse data and cast as numbers
