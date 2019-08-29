@@ -12,6 +12,8 @@ from sqlalchemy import create_engine, inspect
 from flask import Flask, jsonify, render_template, url_for
 from flask_sqlalchemy import SQLAlchemy
 
+
+
 app = Flask(__name__)
 
 
@@ -51,16 +53,19 @@ def index():
 def viz_map():
     return render_template("visualizations_heatmap.html")
 
-
 @app.route("/viz_tree")
 def viz_tree():
     return render_template("visualizations_tree.html")
+
+@app.route("/tree")
+def crimes():
+    df = pd.read_csv("db/crimes_by_neighborhood_csv")
+    return df.to_json(orient='records')
 
 
 @app.route("/viz_bubble")
 def viz_bubble():
     return render_template("visualizations_bubble.html")
-
 
 @app.route("/bubble")
 # create function to call in db and jsonify the data
